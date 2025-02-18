@@ -1,4 +1,3 @@
-# Various-AI-projects
 <h1>🚀 Logic Programming, ASP, Expert Systems, and Cognitive Agents</h1>
 
 <p>
