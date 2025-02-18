@@ -84,7 +84,7 @@ This project applies <strong>Answer Set Programming (ASP)</strong> using <strong
 <h2>📈 Results and Analysis</h2>
 <ul>
   <li><strong>Prolog Maze Solver:</strong> Efficiently solves large mazes with <strong>A*</strong>, showing significant speed-ups over IDA*.</li>
-  <li><strong>Real Estate Expert System:</strong> Provides tailored property recommendations with an average success rate of <strong>85%</strong>.</li>
+  <li><strong>Real Estate Expert System:</strong> Provides tailored property recommendations.</li>
   <li><strong>Escape Room Agent:</strong> Learns optimal strategies to escape the room within <strong>10 learning iterations</strong>.</li>
   <li><strong>Sports Scheduling:</strong> Finds feasible schedules under complex constraints, optimizing league fairness.</li>
 </ul>
