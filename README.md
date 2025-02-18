@@ -32,7 +32,7 @@ This project implements a <strong>Prolog-based solver</strong> for multi-exit ma
   <li><strong>Comparison with IDA*:</strong> Evaluating node expansion and memory constraints.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>PrologMazeSolver/Report.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Logic Programming</code></p>
 
 <hr>
 
@@ -47,7 +47,7 @@ This project implements a rule-based <strong>expert system</strong> for recommen
   <li><strong>Handles constraints</strong> (soft and hard filters) dynamically.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>RealEstateExpertSystem/Report.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Expert Systems</code></p>
 
 <hr>
 
@@ -62,7 +62,7 @@ This project implements a <strong>Soar-based cognitive agent</strong> that learn
   <li><strong>Escape Strategy:</strong> Using objects creatively to reach and break a window.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>SoarEscapeRoom/Report.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Cognitive Agents</code></p>
 
 <hr>
 
@@ -77,7 +77,7 @@ This project applies <strong>Answer Set Programming (ASP)</strong> using <strong
   <li><strong>Performance Optimization:</strong> Parallel computation for solving large instances.</li>
 </ul>
 
-<p><strong>📄 Report available in:</strong> <code>SportsScheduling/Report.pdf</code></p>
+<p><strong>📄 Report available in:</strong> <code>Answer Set Programming</code></p>
 
 <hr>
 
